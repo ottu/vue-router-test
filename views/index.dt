@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        link( rel="stylesheet", href="/css/bootstrap.min.css" )
+        script( src="/js/vue.min.js" )
+        script( src="/js/vue-router.min.js")
+        title Example page
+    body
+        div.container#app
+            div
+                h1 TEST
+            div.row
+                router-view
+
+    script( src="/js/test.js" )

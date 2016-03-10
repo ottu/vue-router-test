@@ -1,0 +1,10 @@
+{
+	"name": "vue-router-test",
+	"description": "A simple vibe.d server application.",
+	"copyright": "Copyright © 2016, ottu",
+	"authors": ["ottu"],
+	"dependencies": {
+		"vibe-d": "~>0.7.23"
+	},
+	"versions": ["VibeDefaultMain"]
+}
